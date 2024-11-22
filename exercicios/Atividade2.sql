@@ -40,5 +40,6 @@ Insira nesta tabela no mínimo 8 dados (registros).
 Faça um SELECT que retorne todes os produtos com o valor maior do que 500.
 Faça um SELECT que retorne todes os produtos com o valor menor do que 500.
 Ao término atualize um registro desta tabela através de uma query de atualização.
-Salve todas as queries para cada um dos requisitos do exercício em um único script (arquivo .SQL) e coloque no seu Github pessoal, no repositório que você criou sobre Banco de dados.
+Salve todas as queries para cada um dos requisitos do exercício em um único script (arquivo .SQL) e coloque no seu Github pessoal, 
+no repositório que você criou sobre Banco de dados.
 */
