@@ -32,10 +32,7 @@ WHERE salario < 2000.00;
 
 /*                                                |    DESCRIÇÃO ATIVIDADE 1     |
 
-Crie um banco de dados para um serviço de RH de uma empresa, onde o sistema trabalhará com as informações dos colaboradores desta empresa. 
-Crie uma tabela de colaboradores e determine 5 atributos relevantes dos colaboradores para se trabalhar com o serviço deste RH.
-Insira nesta tabela no mínimo 5 dados (registros).
-Faça um SELECT que retorne todes os colaboradores com o salário maior do que 2000.
-Faça um SELECT que retorne todes os colaboradores com o salário menor do que 2000.
-Ao término atualize um registro desta tabela através de uma query de atualização.
+Crie um banco de dados para um serviço de um Games Online. O nome do Banco de dados deverá ter o seguinte nome db_generation_game_online. 
+O sistema trabalhará com as informações dos personagens do jogo. O sistema trabalhará com 2 tabelas tb_personagens e tb_classes, que 
+deverão estar relacionadas.
 */
